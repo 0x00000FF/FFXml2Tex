@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FFXml2Tex
+namespace FMXml2Tex.Test
 {
     class Program
     {
